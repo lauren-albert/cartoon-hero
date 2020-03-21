@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+	font-family: Helvetica;
+}
+header{
+	background-color: black;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color:#3E7CE2;
+	font-size: 20px;
+}
+
+headerimg{
+	border-radius:170px;
+	width: 300px;
+	border: 10px solid color:white;
+}
+
+h1, h2{
+	font-family: 'Amaranth', sans-serif;
+}
+
+main{
+	max-width: 800px;
+	margin:0 auto;
+	padding: 0 20;
+
+}
+
+main img{
+	max-width:100%;
+}
+
+h2{
+	font-size: 15px;
+	color: purple;
+	margin: 0;
+}
+a{
+	color: red;
+}
+a:hover{
+	color: yellow;
+}
+
+footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
